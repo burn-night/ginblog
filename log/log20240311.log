@@ -1,0 +1,9 @@
+time="2024-03-11 20:16:47" level=info Agent=PostmanRuntime/7.36.3 DataSize=211 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=GET Path="/api/v1/user/?pagesize=2&pagenum=1" SpendTime="12 ms" status=200
+time="2024-03-11 21:06:59" level=info Agent=PostmanRuntime/7.36.3 DataSize=67 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="2 ms" status=200
+time="2024-03-11 21:29:14" level=info Agent=PostmanRuntime/7.36.3 DataSize=48 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2024-03-11 21:29:22" level=info Agent=PostmanRuntime/7.36.3 DataSize=64 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2024-03-11 21:29:26" level=info Agent=PostmanRuntime/7.36.3 DataSize=51 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2024-03-11 21:29:33" level=info Agent=PostmanRuntime/7.36.3 DataSize=51 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="2 ms" status=200
+time="2024-03-11 21:29:40" level=info Agent=PostmanRuntime/7.36.3 DataSize=58 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="1 ms" status=200
+time="2024-03-11 21:29:43" level=info Agent=PostmanRuntime/7.36.3 DataSize=203 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=POST Path=/api/v1/user/add SpendTime="63 ms" status=200
+time="2024-03-11 21:57:06" level=info Agent=PostmanRuntime/7.36.3 DataSize=388 HostName=LAPTOP-6S4K2HLR Ip="::1" Method=GET Path="/api/v1/user/?pagesize=2&pagenum=1" SpendTime="15 ms" status=200
